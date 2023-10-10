@@ -15,7 +15,7 @@ Prepared by Valient Newman <valient.newman@proton.me>
 
 My Github Repository <https://github.com/valient-newman>
 
-This addition gives the support Embarcadero Delphi 11 to ZeosLib.
+This addition gives the support for Embarcadero Delphi 11 to ZeosLib.
 Why I put this stuff to github but not to sourceforge.net?
  I currently have difficulty while registering to sourceforge.net.
 
