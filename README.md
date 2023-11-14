@@ -21,5 +21,5 @@ Why I put this stuff to github but not to sourceforge.net?
 
 
 ## What is to be done?
-Create subdirectory "DelphiXE11" in the directory "packages" of the original ZeosLib and copy my files there.
+Create subdirectory "Delphi11" in the directory "packages" of the original ZeosLib and copy my files there.
 That is all, futher use usual procedure, starting with ZeosDbo.groupproj and so on...
