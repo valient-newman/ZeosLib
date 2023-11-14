@@ -11,15 +11,13 @@ ZeosLib basically is licensed under the LGPL with Linking exception. Similar to 
 
 I have no sponsors
 
-Prepared by Valient Newman
+Prepared by Valient Newman 
 
 My Github Repository <https://github.com/valient-newman>
 
-This addition gives the support for Embarcadero Delphi 11 to ZeosLib, changed the LibSuffix from 270 to 280 for Delphi 11. 
-Why I put this stuff to github but not to sourceforge.net?
- I currently have difficulty while registering to sourceforge.net.
-
+This addition gives the support for Embarcadero Delphi 12 to ZeosLib, changed the LibSuffix from 280 to 290 for Delphi 12. 
 
 ## What is to be done?
-Create subdirectory "DelphiXE11" in the directory "packages" of the original ZeosLib and copy my files there.
+Create subdirectory "Delphi12" in the directory "packages" of the original ZeosLib and copy my files there.
+Place the changed file Zeos.inc to the "src" directory.
 That is all, futher use usual procedure, starting with ZeosDbo.groupproj and so on...

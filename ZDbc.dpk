@@ -26,7 +26,7 @@ package ZDbc;
 {$DEFINE DEBUG}
 {$ENDIF IMPLICITBUILDING}
 {$DESCRIPTION 'Zeos Low Level Database API'}
-{$LIBSUFFIX '280'}
+{$LIBSUFFIX '290'}
 {$RUNONLY}
 {$IMPLICITBUILD OFF}
 
@@ -94,5 +94,6 @@ contains
   ZDbcProxyResultSet in '..\..\src\dbc\ZDbcProxyResultSet.pas',
   ZDbcProxyStatement in '..\..\src\dbc\ZDbcProxyStatement.pas',
   ZDbcProxyUtils in '..\..\src\dbc\ZDbcProxyUtils.pas';
+
 end.
 
