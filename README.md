@@ -16,8 +16,6 @@ Prepared by Valient Newman
 My Github Repository <https://github.com/valient-newman>
 
 This addition gives the support for Embarcadero Delphi 11 to ZeosLib, changed the LibSuffix from 270 to 280 for Delphi 11. 
-Why I put this stuff to github but not to sourceforge.net?
- I currently have difficulty while registering to sourceforge.net.
 
 
 ## What is to be done?
