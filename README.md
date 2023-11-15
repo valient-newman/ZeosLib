@@ -20,4 +20,5 @@ This addition gives the support for Embarcadero Delphi 12 to ZeosLib, changed th
 ## What is to be done?
 Create subdirectory "Delphi12" in the directory "packages" of the original ZeosLib and copy my files there.
 Place the changed file Zeos.inc to the "src" directory.
+Compile for Windows 32 Target Platform.
 That is all, futher use usual procedure, starting with ZeosDbo.groupproj and so on...
